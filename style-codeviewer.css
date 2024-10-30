@@ -1,0 +1,30 @@
+/*--------------------------------------------------------------
+Jimmy Codeviewer
+--------------------------------------------------------------*/
+
+div#magazine-content {
+	position: relative;
+	width: 1040px;
+	height: 1428px;
+	color: #000;
+	background-color: #fff;
+}
+
+div.magazine-textbox {
+	position: absolute;
+	margin: 0;
+	padding: 0;
+}
+
+div.magazine-textbox-working {
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	border: 1px dashed #fff;
+}
+
+div.magazine-imagebox {
+	position: absolute;
+	margin: 0;
+	padding: 0;
+}
